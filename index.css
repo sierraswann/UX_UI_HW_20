@@ -1,0 +1,25 @@
+/* .nav-item nav-link {
+    display: flex;
+    justify-content: flex-end;
+} */
+
+.appname{
+    display: flex;
+    margin: 0 auto center alingment;
+    justify-content: center;
+}
+
+p.lead {
+    display: flex;
+    justify-content: center;
+}
+
+.jumbotron my-4 {
+    color: #FF079C;
+}
+
+pre.problem {
+    display: flex;
+    justify-content: center;
+    align-content: left;
+}
