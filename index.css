@@ -15,11 +15,23 @@ p.lead {
 }
 
 .jumbotron my-4 {
-    color: #FF079C;
-}
-
-pre.problem {
     display: flex;
     justify-content: center;
-    align-content: left;
+    align-items: center;
+    margin: auto;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: darkgray;
+    /* padding-left: 30px; */
+   
+    
+}  
+
+div {
+    margin: auto 0;
 }
