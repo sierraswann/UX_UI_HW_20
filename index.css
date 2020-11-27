@@ -136,7 +136,7 @@ section.s4{
     align-items: center;
 }
 
-.card {
+.card1 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -148,9 +148,26 @@ section.s4{
     display: flex;
     justify-content: center;
     align-items: center;
-    
-
 }
+
+/* .img-fluid {
+    
+    max-width: 50%;
+    height: 600px;
+} */
+
+.s5 {
+    background-color: #C0C0C0;
+    color: black;
+}
+
+.img-fluid {
+
+    max-width: 50%;
+    height: 600px;
+}
+
+
 div {
     margin: auto 0;
 }
